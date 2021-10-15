@@ -1,0 +1,6 @@
+com\mycompany\chatting\Client.class
+com\mycompany\chatting\WriteClient.class
+com\mycompany\chatting\ReadClient.class
+com\mycompany\chatting\WriteServer.class
+com\mycompany\chatting\Server.class
+com\mycompany\chatting\ReadServer.class
